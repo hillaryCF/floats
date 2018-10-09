@@ -1,0 +1,18 @@
+$color: rgb(160, 110, 46);
+$mw:26%;
+$container:1200px;
+.tables{
+    max-width: $container;
+    margin: 0 auto;
+    
+    .table{
+        width:$mw;
+        max-width: $mw;
+        float: left;
+        text-align: center;
+    }
+    .box1{
+        background-color: $color;
+        margin: 10px;
+    }
+}

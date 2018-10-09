@@ -1,0 +1,14 @@
+.tables {
+  width: 1200px;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center; }
+  .tables .table {
+    width: 26%;
+    max-width: 26%;
+    float: left; }
+  .tables .box1 {
+    background-color: #a06e2e;
+    margin: 10px; }
+
+/*# sourceMappingURL=style.css.map */
