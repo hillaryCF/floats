@@ -1,0 +1,42 @@
+$tablew:49%;
+$yellow:rgb(202, 202, 50);
+$orange:rgb(228, 96, 20);
+$container:1200px;
+
+#tables{
+    max-width: $container;
+    margin: 0 auto;
+}
+.box{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.table1{
+    background-color: rgb(202, 202, 50);
+    width: 49%;
+    max-width: 49%;
+}
+.table2{
+    width: 49%;
+    max-width: 49%;
+    background-color: rgb(219, 171, 12);
+}
+.table3{
+    width: 24%;
+    max-width: 25%;
+    background-color: rgb(228, 96, 20);
+}
+.table4{
+    width: 74%;
+    max-width: 74%;
+    background-color: rgb(231, 103, 71);
+}
+.table5{
+    width: 99%;
+    max-width: 99%;
+    background-color: rgb(230, 80, 43);
+}
+
+

@@ -1,0 +1,36 @@
+#tables {
+  max-width: 1200px;
+  margin: 0 auto; }
+
+.box {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: center; }
+
+.table1 {
+  background-color: #caca32;
+  width: 49%;
+  max-width: 49%; }
+
+.table2 {
+  width: 49%;
+  max-width: 49%;
+  background-color: #dbab0c; }
+
+.table3 {
+  width: 24%;
+  max-width: 25%;
+  background-color: #e46014; }
+
+.table4 {
+  width: 74%;
+  max-width: 74%;
+  background-color: #e76747; }
+
+.table5 {
+  width: 99%;
+  max-width: 99%;
+  background-color: #e6502b; }
+
+/*# sourceMappingURL=style.css.map */
