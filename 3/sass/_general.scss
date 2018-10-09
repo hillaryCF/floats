@@ -1,0 +1,34 @@
+$wbox1:49%;
+$wbox2:24%;
+$wbox3:74%;
+$yellow:rgb(199, 212, 14);
+$orange:rgb(255, 72, 0);
+
+#tables{
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}.table{
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    text-align: center;
+}.box1{
+    width: $wbox1;
+    max-width: $wbox1;
+    background-color: $yellow;
+}
+.box2{
+    width: $wbox2;
+    max-width: $wbox2;
+    background-color: $yellow;   
+}.box7{
+    width: $wbox1;
+    max-width: $wbox1;
+    background-color: $orange;
+    height: 110px;
+}.box11{
+    width: $wbox3;
+    max-width: $wbox3;
+    background-color: $yellow;
+}
